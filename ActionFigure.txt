@@ -1,0 +1,9 @@
+# Template ChatGPT prompts for current "viral action figure trend".
+
+First prompt:
+
+"A boxed action figure of a modern tech entrepreneur inside sleek, high-end retail packaging. The figure is a tall, confident man wearing a tailored business suit, crisp shirt, and dress shoes. His pose is professional but dynamic. Around him in the box are tech-themed accessories: a laptop (MacBook style), a smartphone, a smartwatch, wireless earbuds, a coffee cup, a small stack of code notebooks, and icons or miniature representations of apps like GitHub, AWS, Notion, ChatGPT, and LinkedIn. The packaging design is minimalist and sophisticated, using cool greys or dark tones with a bold, modern font. At the top, include a name or brand title like 'TECHPRENEUR' and at the bottom a tagline such as 'Building the Future, One Line of Code at a Time.' The entire layout should look like a premium action figure box for display or digital content."
+
+Second Prompt:
+
+"A boxed action figure of a football (also known as soccer) player  inside sleek, high-end retail packaging. The figure is of current Manchester United captain Bruno Fernandes wearing Manchester United's current home kit. His pose is atheletic but dynamic and he is holding a soccer ball in his right hand. Around him in the box are sport-themed accessories: a trophy (UEFA Europa league style), a soccer boot, a Manchester United badge, a Manchester United away kit shirt, a trophy winner's medal,and icons or miniature representations of brands like Adidas, English Premier League and Portugal national flag. The packaging design is minimalist and sophisticated, using cool white or bright tones with a bold, modern font. At the top, include a name or brand title like 'MANCHESTER UNITED' and at the bottom a tagline such as 'United Forever' The entire layout should look like a premium action figure box for display or digital content."
